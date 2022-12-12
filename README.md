@@ -1,5 +1,5 @@
 # Archito
-![Image text](img-readme/to/the/archito.png)
+![Image text](/img-readme/archito.png)
 
 ## Funcionalidades
 1. Instala una coleccion de paquetes y configura  la distribucion arch (Script Inicial Arch - Personalizacion )
@@ -51,5 +51,5 @@ $ chmod +x Archito.sh
 $ ./Archito.sh
 
 # Screenshot
-![Image text](/img-readme/to/the/menuEj1.png)
-![Image text](/img-readme/to/the/menuEj2.png)
+![Image text](/img-readme/menuEj1.png)
+![Image text](/img-readme/menuEj2.png)
