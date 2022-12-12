@@ -1,5 +1,5 @@
 # Archito
-![Image text](/img-readme/to/the/archito.png)
+![Image text](img-readme/to/the/archito.png)
 
 ## Funcionalidades
 1. Instala una coleccion de paquetes y configura  la distribucion arch (Script Inicial Arch - Personalizacion )
