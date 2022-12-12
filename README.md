@@ -46,9 +46,9 @@ Se configura:
 
 
 # Iniciar
-$ cd Archito
-$ chmod +x Archito.sh
-$ ./Archito.sh
+$cd Archito
+$chmod +x Archito.sh
+$./Archito.sh
 
 # Screenshot
 ![Image text](/img-readme/menuEj1.png)
