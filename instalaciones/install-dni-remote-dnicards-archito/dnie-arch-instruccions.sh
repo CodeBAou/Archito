@@ -31,4 +31,5 @@ yay -S icedtea-web --noconfirm
 sudo pacman -S openssl-1.1 --noconfirm #Necesario para que se lance correctament dni remote 
 yay -S libpkcs11-dnie --noconfirm
 yay -S dnieremote-bin ca-certificates-dnie --noconfirm
+yay -S autofirma   #Necesario para que mozilla reconozca de forma automatica la firma para acceder a la web
 
